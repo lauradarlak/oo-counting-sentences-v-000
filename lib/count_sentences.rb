@@ -27,4 +27,5 @@ class String
     self.split(/[.?!]/).count
     self
   end
+  binding.pry
 end
