@@ -26,5 +26,5 @@ class String
   def count_sentences
     self.split(/[.?!]\s[A-Z]/)
   end
-  
+  binding.pry
 end
